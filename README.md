@@ -1,4 +1,4 @@
-# bayesian-nonparametrics
+# topics
 
-Dirichlet Process Mixture Model
-Gaussian Processes
+Dirichlet Process Mixture Model.
+Generative Topic Model with some funny documents.
